@@ -1,0 +1,48 @@
+5/21/2025
+Bima Kristiawan 2079477
+IT 390R Activity: Log‑Parsing Lab
+
+I use Qwen AI to complete task 1, 3, and also added the session times task
+
+Below are the output:
+
+PS C:\Users\bimak\OneDrive\Documents\College\9. Spring 2025\IT 390R\activities-bimakrist\Activity-02> python analyze_log.py cowrie-tiny.log --task failed-logins --min-count 1
+Failed Login Attempts Per IP
+IP Address         Count
+------------------------
+197.5.145.69          28
+2.82.170.124          25
+106.13.236.133        24
+159.89.130.245        18
+167.71.234.157        17
+139.186.77.46         17
+104.42.113.137        15
+121.102.93.198        15
+122.51.81.247         14
+190.52.191.49         14
+139.59.39.185         13
+210.178.121.46        11
+146.0.209.73          11
+167.71.141.205         1
+207.154.196.106        1
+185.191.124.143        1
+162.247.74.200         1
+185.247.224.14         1
+185.100.87.202         1
+175.125.94.166         1
+
+PS C:\Users\bimak\OneDrive\Documents\College\9. Spring 2025\IT 390R\activities-bimakrist\Activity-02> python analyze_log.py cowrie-tiny.log --task successful-creds
+Successful Credentials Usage
+Username Password Unique IPs
+-------------------------
+root   admin             8
+Successful Credentials Usage
+Username Password Unique IPs
+-------------------------
+root   admin             8
+root   password          1
+oracle oracle            1
+
+PS C:\Users\bimak\OneDrive\Documents\College\9. Spring 2025\IT 390R\activities-bimakrist\Activity-02> python analyze_log.py cowrie-tiny.log --task session-times
+No completed sessions found.
+Found 31 incomplete session(s) (connection started but not closed).
