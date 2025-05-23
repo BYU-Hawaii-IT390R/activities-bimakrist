@@ -1,0 +1,38 @@
+TaskName,Next Run Time,Status
+\Lenovo\LenovoNowLauncher,N/A,Ready
+\Lenovo\LenovoNowQuarterlyLaunch,6/15/2025 8:10:21 PM,Ready
+\Lenovo\LenovoNowTask,N/A,Ready
+\Lenovo\LenovoNowTask,N/A,Ready
+\Lenovo\LenovoNowTask,N/A,Ready
+\Lenovo\LenovoNowTask,N/A,Ready
+\Lenovo\ImController\Lenovo iM Controller Monitor,N/A,Ready
+\Lenovo\ImController\Lenovo iM Controller Scheduled Maintenance,N/A,Ready
+\Lenovo\ImController\Lenovo iM Controller Scheduled Maintenance,N/A,Ready
+\Lenovo\ImController\Lenovo iM Controller Scheduled Maintenance,N/A,Ready
+\Lenovo\ImController\Lenovo iM Controller Scheduled Maintenance,N/A,Ready
+\Lenovo\ImController\TimeBasedEvents\862f8de7-3049-4938-ab76-32ca9087e158,5/24/2025 9:26:18 AM,Ready
+\Lenovo\UDC\Lenovo UDC Diagnostic Scan,N/A,Ready
+\Lenovo\UDC\Lenovo UDC Lazy Deployment,5/26/2025 10:54:59 PM,Ready
+\Lenovo\UDC\Lenovo UDC Maintainance Task,5/24/2025 2:17:39 AM,Ready
+\Lenovo\UDC\Lenovo UDC Monitor,N/A,Ready
+\Lenovo\UDC\MessagingPlugin\472a7c0f-f1b2-467c-b631-e83ed6eeed6c,N/A,Ready
+\Lenovo\UDC\SystemNotificationPlugin\DigestDownload,5/24/2025 9:44:49 AM,Ready
+\Lenovo\UDC\SystemNotificationPlugin\f003fe3a-0bcd-4e39-bb06-ff47bf38d9eb,N/A,Ready
+\Lenovo\Vantage\Lenovo.Vantage.ServiceMaintainance,N/A,Ready
+\Lenovo\Vantage\Lenovo.Vantage.ServiceMaintainance,N/A,Ready
+\Lenovo\Vantage\Lenovo.Vantage.ServiceMaintainance,N/A,Ready
+\Lenovo\Vantage\Lenovo.Vantage.ServiceMaintainance,N/A,Ready
+\Lenovo\Vantage\StartupFixPlan,N/A,Ready
+\Lenovo\Vantage\Schedule\BatteryGaugeAddinDailyScheduleTask,5/24/2025 10:00:00 AM,Ready
+\Lenovo\Vantage\Schedule\DailyTelemetryTransmission,5/24/2025 2:10:43 PM,Ready
+\Lenovo\Vantage\Schedule\GenericMessagingAddin,5/24/2025 3:40:55 PM,Ready
+\Lenovo\Vantage\Schedule\HeartbeatAddinDailyScheduleTask,5/24/2025 12:00:00 AM,Ready
+\Lenovo\Vantage\Schedule\IdeaNotebookAddinDailyEvent,5/24/2025 5:09:54 PM,Ready
+\Lenovo\Vantage\Schedule\Lenovo.Vantage.SmartPerformance.MonthlyReport,6/1/2025 4:51:00 PM,Ready
+\Lenovo\Vantage\Schedule\Lenovo.Vantage.SmartPerformance.SScan,5/27/2025 2:30:00 PM,Ready
+\Lenovo\Vantage\Schedule\LenovoCompanionAppAddinDailyScheduleTask,5/24/2025 12:59:07 PM,Ready
+\Lenovo\Vantage\Schedule\LenovoSystemUpdateAddin_WeeklyTask,5/26/2025 2:18:43 AM,Ready
+\Lenovo\Vantage\Schedule\SettingsWidgetAddinDailyScheduleTask,5/24/2025 10:00:00 AM,Ready
+\Lenovo\Vantage\Schedule\SmartPerformance.ExpireReminder,5/23/2025 5:53:00 PM,Ready
+\Lenovo\Vantage\Schedule\VantageCoreAddinIdleScheduleTask,N/A,Ready
+\Lenovo\Vantage\Schedule\VantageCoreAddinWeekScheduleTask,5/27/2025 10:36:41 AM,Ready
